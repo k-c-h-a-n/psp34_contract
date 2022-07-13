@@ -1,6 +1,7 @@
 # **PSP34** NFT minting site
 
-## This dApp enables users to create and deploy NFT in PSP34 standard. PSP34 is a Polkadot standard for the WASM based NFTs.
+## This dApp enables users to create and deploy NFT in PSP34 standard.
+### PSP34 is a Polkadot standard for the WASM based NFTs.
 
 - The image given by user is stored on IPFS
 - Metadata for the image is stored on IPFS
