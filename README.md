@@ -15,7 +15,7 @@ We changed from solidity to ink version by referring to the site below and proce
 We have been studying blockchain for two months and this project started on July 2. 
 So we're not used to using github yet, so we put it up at the end. I ask for your understanding.
 
-##Contact informaion
+## Contact informaion
 4uphwang - https://t.me/jrbr7282
 k-c-h-a-n - bleem.k.chan@gmail.com
 Unchain68 - unchain@gmail.com
