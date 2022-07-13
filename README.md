@@ -1,0 +1,1 @@
+# psp34_contract
