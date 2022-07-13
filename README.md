@@ -16,9 +16,9 @@ We have been studying blockchain for two months and this project started on July
 So we're not used to using github yet, so we put it up at the end. I ask for your understanding.
 
 ## Contact informaion
-4uphwang - https://t.me/jrbr7282
-k-c-h-a-n - bleem.k.chan@gmail.com
-Unchain68 - unchain@gmail.com
-yhc125 - yhc125r@naver.com
+ - 4uphwang - https://t.me/jrbr7282
+ - k-c-h-a-n - bleem.k.chan@gmail.com
+ - Unchain68 - unchain@gmail.com
+ - yhc125 - yhc125r@naver.com
 
 # Astar Bounty - Front-end, tools, or utility service
