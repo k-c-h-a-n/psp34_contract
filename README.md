@@ -3,6 +3,8 @@
 ## This dApp enables users to create and deploy NFT in PSP34 standard.
 ### PSP34 is a Polkadot standard for the WASM based NFTs.
 
+### [PSP34 Contract code](https://github.com/Unchain68/psp34_contract)
+
 - The image given by user is stored on IPFS
 - Metadata for the image is stored on IPFS
 - This site is deployed for Shibuya and Shiden networks
